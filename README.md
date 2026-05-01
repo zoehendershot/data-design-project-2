@@ -7,7 +7,7 @@ This repository contains all materials for a data analysis project on wildfire r
 ### njd5rd
 
 ### DOI
-[![DOI](https://zenodo.org/badge/1195707301.svg)](https://doi.org/10.5281/zenodo.19363213)
+[![DOI](https://zenodo.org/badge/1226654080.svg)](https://doi.org/10.5281/zenodo.19956331)
 
 ### Press release - link
 [Which Weather Conditions Lead to the Most Destructive Wildfires](./pressrelease.md)
