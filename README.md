@@ -21,7 +21,7 @@ This repository contains all materials for a data analysis project on wildfire r
 ### License
 This project is licensed under the MIT License.  
 See the LICENSE file for details:  
-[LICENSE](https://github.com/zoehendershot/Data-design-project-1/blob/main/LICENSE)
+[LICENSE](https://github.com/zoehendershot/data-design-project-2/blob/main/LICENSE)
 
 ## Problem Definition
 ### State the initial general problem and refined specific problem statement
