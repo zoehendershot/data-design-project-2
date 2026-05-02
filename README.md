@@ -10,7 +10,7 @@ This repository contains all materials for a data analysis project on wildfire r
 [![DOI](https://zenodo.org/badge/1226654080.svg)](https://doi.org/10.5281/zenodo.19956331)
 
 ### Press release - link
-[Air Pollution Trends Reveal PM2.5 as Primary Driver of Unhealthy Air Days in Virginia](./pressrelease.md)
+[Air Pollution Trends Reveal PM2.5 as Primary Driver of Unhealthy Air Days in Virginia](./p2pressrelease.md)
 ### link to data folder
 [Data Folder](https://myuva-my.sharepoint.com/:f:/r/personal/njd5rd_virginia_edu/Documents/Data%20Design%20Project%201/Project%20Data?csf=1&web=1&e=bn5TfG)
 ### link to pipeline files
