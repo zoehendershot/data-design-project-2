@@ -1,6 +1,6 @@
 # DS 4320 Project 2: Clearing the Air: Using Data to Identify the Biggest Pollution Threats
 ### Executive Summary
-This repository contains all materials for a data analysis project focused on predicting air quality using environmental pollutant data. This project repository features a complete data pipeline built in Python, with a separate notebook for data cleaning and transformation. In addition, it contains a visualization of key findings, a press release written for a general audience, and supporting documentation such as a data dictionary and domain context. A license is also included to support reproducibility and proper use of the project materials. 
+This repository contains all materials for a data analysis project focused on predicting air quality using environmental pollutant data. This project repository features a complete data pipeline written in Python, with a separate notebook for data cleaning and transformation. In addition, it contains a visualization of key findings, a press release written for a general audience, and supporting documentation such as a data dictionary and domain context. A license is also included to support reproducibility and proper use of the project materials. 
 
 ### Zoe Hendershot
 
