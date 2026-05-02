@@ -33,7 +33,7 @@ Refinement Rationale: Predicting air quality is a big and complex topic, that co
 Project Motivation: Air quality directly impacts public health, with poor air conditions linked to respiratory and cardiovascular issues. As climate change intensifies, bringing more wildfires, heat waves, and shifting weather patterns.  and urban areas continue to grow, understanding and anticipating changes in air quality has become more important than ever. This project aims to make air quality data easier to act on by spotting patterns in pollution levels before they become harmful. By using publicly available EPA monitoring data, this analysis shows how everyday environmental measurements can help us better understand and predict dangerous air quality events at a local level.
 
 ### Press Release
-[Air Pollution Trends Reveal PM2.5 as Primary Driver of Unhealthy Air Days in Virginia](./pressrelease.md)
+[Air Pollution Trends Reveal PM2.5 as Primary Driver of Unhealthy Air Days in Virginia](./p2pressrelease.md)
 
 ## Domain Exposition                          
 ### Terminology table
