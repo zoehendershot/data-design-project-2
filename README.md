@@ -1,6 +1,6 @@
-# DS 4320 Project 2: sub title
+# DS 4320 Project 2: Clearing the Air: Using Data to Identify the Biggest Pollution Threats
 ### Executive Summary
-This repository contains all materials for a data analysis project predicting air quality using the UCI Forest Fires dataset. It includes the raw and processed data, a normalized relational database structure, and SQL queries used to prepare a modeling dataset. The repository also contains the full data pipeline implemented in Python and DuckDB, along with a Jupyter Notebook documenting the data cleaning, transformation, and analysis steps. Additionally, it includes a press release for a general audience, supporting documentation such as domain exposition and data dictionaries, and a license and DOI for reproducibility and citation.
+This repository contains all materials for a data analysis project focused on predicting air quality using environmental pollutant data. This project repository features a complete data pipeline built in Python, with a separate notebook for data cleaning and transformation. In addition, it contains a visualization of key findings, a press release written for a general audience, and supporting documentation such as a data dictionary and domain context. A license is also included to support reproducibility and proper use of the project materials. 
 
 ### Zoe Hendershot
 
