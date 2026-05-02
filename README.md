@@ -13,7 +13,7 @@ This repository contains all materials for a data analysis project focused on pr
 [Air Pollution Trends Reveal PM2.5 as Primary Driver of Unhealthy Air Days in Virginia](./p2pressrelease.md)
 
 ### link to pipeline files
-[Data Pipeline Markdown File](https://github.com/zoehendershot/data-design-project-2/blob/main/project2pipeline.md)
+[Data Pipeline Markdown File](https://github.com/zoehendershot/data-design-project-2/blob/main/p2pipeline.md)
 
 [Data Pipeline Jupyter Notebook File](https://github.com/zoehendershot/data-design-project-2/blob/main/project2pipeline.ipynb)
 
