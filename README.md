@@ -1,6 +1,6 @@
 # DS 4320 Project 2: sub title
 ### Executive Summary
-This repository contains all materials for a data analysis project on wildfire risk using the UCI Forest Fires dataset. It includes the raw and processed data, a normalized relational database structure, and SQL queries used to prepare a modeling dataset. The repository also contains the full data pipeline implemented in Python and DuckDB, along with a Jupyter Notebook documenting the data cleaning, transformation, and analysis steps. Additionally, it includes a press release for a general audience, supporting documentation such as domain exposition and data dictionaries, and a license and DOI for reproducibility and citation.
+This repository contains all materials for a data analysis project predicting air quality using the UCI Forest Fires dataset. It includes the raw and processed data, a normalized relational database structure, and SQL queries used to prepare a modeling dataset. The repository also contains the full data pipeline implemented in Python and DuckDB, along with a Jupyter Notebook documenting the data cleaning, transformation, and analysis steps. Additionally, it includes a press release for a general audience, supporting documentation such as domain exposition and data dictionaries, and a license and DOI for reproducibility and citation.
 
 ### Zoe Hendershot
 
@@ -11,8 +11,7 @@ This repository contains all materials for a data analysis project on wildfire r
 
 ### Press release - link
 [Air Pollution Trends Reveal PM2.5 as Primary Driver of Unhealthy Air Days in Virginia](./p2pressrelease.md)
-### link to data folder
-[Data Folder](https://myuva-my.sharepoint.com/:f:/r/personal/njd5rd_virginia_edu/Documents/Data%20Design%20Project%201/Project%20Data?csf=1&web=1&e=bn5TfG)
+
 ### link to pipeline files
 [Data Pipeline Markdown File](https://github.com/zoehendershot/Data-design-project-1/blob/main/data_pipeline.md)
 
