@@ -26,7 +26,7 @@ See the LICENSE file for details:
 ### State the initial general problem and refined specific problem statement
 Initial General Problem: Predicting Air Quality
 
-Refined Specific Problem: Can we predict whether a location in Virginia will experience an unhealthy air quality day (AQI > 50) using daily measurements of key pollutants (PM2.5, ozone, and NO₂) across 2024 and 2025?
+Refined Specific Problem: Can we predict whether a location in Virginia will experience an unhealthy air quality day (AQI > 50) using daily pollutant measurements (PM2.5, ozone, and NO₂) from 2024–2025, and identify which pollutant is the strongest driver of poor air quality?
 
 Refinement Rationale: Predicting air quality is a big and complex topic, that could cover anything from long-term climate trends to detailed atmospheric modeling. To keep this project focused and manageable, I narrowed it down to predicting day-to-day air quality in Virginia using a small set of key pollutants. This makes the analysis clearer and easier to interpret without losing meaningful insight. I focused specifically on identifying days with less than 'good' air quality, which is indicated by an AQI above 50, which turns the problem into a classification problem and ties the results directly to real health guidelines.
 
